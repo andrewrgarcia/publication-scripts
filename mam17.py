@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 #mam17.py
-#MAM article figures
+#article figures
+#Processing-size correlations in the preparation of magnetic alginate microspheres through emulsification and ionic crosslinking
+#https://doi.org/10.1016/j.colsurfa.2017.05.058
 
 from mamdata import *
 from scipy.stats import tstd
